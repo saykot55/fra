@@ -1,0 +1,86 @@
+.pre{
+    background-color:rgb(40, 80, 88);
+    color: rgb(236, 236, 225);
+}
+
+.post{
+    background-color: rgb(86, 42, 167);
+    color: rgb(20, 20, 9);
+    }
+
+th:hover{
+    background-color: brown;
+    color: rgb(18, 33, 31);
+}
+.link{
+    color: rgb(238, 241, 245);
+}
+ .auto{
+     text-align: center;
+     background-color: antiquewhite;
+     margin-left: 25%;
+     margin-right: 25%;
+   
+ }
+ .pic2 {
+    width: 160px;
+    height:75px;
+   }
+   button{
+       padding: 15px,20px;
+       width: 120px;
+       height:60px;
+       background-color: rgb(0, 102, 255);
+       color:rgb(210, 192, 192);
+   }
+   button:hover{
+       background-color: orangered;
+       color: rgb(18, 33, 31);
+   }
+   .mmm{
+       text-align: center;
+       font-size: 40px;
+   }
+   th{
+       background-color: brown;
+       color: beige;
+       padding: auto;
+       margin-top: 5px;
+       margin-bottom: 5px;
+   }
+   td{
+       text-align: center;
+       color: rgb(17, 16, 15);
+       font-weight: 300;
+   }
+   .ddd{
+       background-color: rgb(42, 165, 101);
+       color: beige;
+   }
+  .kkk{
+      text-align: right;
+      font-size: 40px;
+      font-weight: bold;
+      text-decoration: underline;
+      color: brown;
+  }
+  .lll{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: brown;
+     
+  }
+  .yyy{
+    text-align: left;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: rgb(165, 42, 144);
+
+  }
+  .right{
+      text-align: right;
+  }
+ 
